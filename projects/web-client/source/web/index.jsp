@@ -62,7 +62,7 @@ TransactionService transactionService = (TransactionService)context.getBean("tra
             <p></p>
             <p><a href="http://docs.alfresco.com/">Online Documentation</a></p>
             <p></p>
-            <p><a href="<%=UrlUtil.getShareUrl(sysAdminParams)%>">Alfresco Share</a></p>
+            <p><a href="../share">Alfresco Share</a></p>
             <p><a href="./webdav">Alfresco WebDav</a></p>
             <p></p>
             <p><a href="./s/index">Alfresco WebScripts Home</a> (admin only)</p>
